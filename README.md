@@ -2,13 +2,13 @@
 
 ## clone the repo from
 
-### `git clone https://github.com/benk1/TripsApp.git`
+### use git clone command to clone the repo
 
-This project was bootstrapped with Create React App.
+https://github.com/benk1/TripsApp.git
 
 In the project directory, you can run:
 
-### `json-server --watch db.json --port 5000`
+### `json-server --watch ../db/db.json --port 5000`
 
 Open another terminal window and run
 
